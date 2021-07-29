@@ -1,0 +1,83 @@
+喜ぶ系 pleasant
+anim_eyecontact_giggle_01（嬉しそうに笑う、音あり）
+anim_eyecontact_smile_01（音ありで表情だけにっこりする、顔の向きあり）
+anim_eyecontact_squint_01（にっこり目を細める、音あり、顔の向きあり）
+anim_feedback_goodrobot_01（笑ながらアームを動かすはしゃいでいる感じ、音あり）
+anim_feedback_goodrobot_02　（頭を小刻みに動かしながら嬉しそうにする、音あり、その後アームを一度上下する）
+anim_feedback_iloveyou_01　（アームを浮かせながら喜びを表現する、音あり）
+anim_feedback_iloveyou_02　（アームの動きなし、喜んでいる、音あり）
+anim_freeplay_reacttoface_sayname_01_head_angle_40（上を向いてアームを震わせながら喜ぶ、音あり）
+anim_freeplay_reacttoface_sayname_03_head_angle_40（１より控えめに喜ぶ、アーム動きあり）
+PounceSuccess(アームを浮かしながら喜ぶ）
+anim_pounce_success_03（左右を向いて喜ぶ、アームは少し上がっている）
+anim_pounce_success_04（アームを少し持ち上げて、少し回転して喜ぶ）
+anim_greeting_hello_01（アームを上にあげて喜ぶ、音あり）
+
+嬉しい系 happy
+MeetVictorSayNameAgain（アームを上げて、すり寄ってくる感じ）
+
+ディスプレイがすごい系
+anim_holiday_hh_lights_01（目が飾りの一部にされてなって、それを取るために怒る）
+anim_holiday_hh_lights_02（何もない状態から目が飾りとして入ってきて、そのあと、取ると、目だけ落ちてくる）
+anim_holiday_hny_fireworks_01（目が花火として打ち上げられ、花火が見える）
+anim_holiday_hyn_confetti_01（紙吹雪を打ち上げる）
+
+語りかける系 like talking
+anim_message_announce_toplayer_01（何かを訴えかけるような感じ）
+
+
+
+自然な動き biological movement
+anim_eyepose_blink（まばたき）
+anim_keepalive_blink_01（とても自然な瞬き、閉じて開くまで）
+anim_howold_fastloop_01（目を下で左右に動かす、混ぜるような音がする）
+anim_keepalive_eyesonly_loop_01（目は微妙に動いている）
+anim_keepalive_eyesonly_loop_02（ほんの少し細くなって目は動いている）
+anim_keepalive_eyesonly_loop_03（上下に大きめに動いている）
+anim_keepalive_eyesonly_loop_04
+
+negative emotion
+anim_eyepose_sad（中央で悲しそうな顔、上向き）
+anim_eyepose_sad_down（下の方で悲しそうな顔）
+anim_eyepose_worried（心配そうな顔）
+anim_eyepose_suspicious（目を細めて、疑わしそうな顔）
+
+angry
+anim_eyepose_angry（おこっている顔のみ、音無し）
+anim_eyepose_bothered（煩わしそう音無し）
+anim_eyepose_blink_bd_l（目を細めて少しおこっている感じ）
+anim_eyepose_blink_bd_r（目を細めて少しおこっている感じ）
+anim_reacttocliff_pickup_03（怪訝な顔をした後、アームを上下しながら怒る）
+
+音が続く系 sound
+anim_howold_fastloop_01（目を下で左右に動かす、混ぜるような音がする）
+anim_howold_getin_even_01
+anim_howold_getin_odd_01（目を下で左右に動かしながら、ちょっと不安げな音がする）
+anim_howold_getout_01（音を抜けて、笑顔になる）
+anim_howold_slowloop_01
+
+Cut
+anim_keepaway_pounce_getin_01（前に行って、一回大きくアームを上下する）
+CubePounceWinHand（空中でアームを小刻みに震わせてにっこり、音あり）
+
+考える thinking
+KnowledgeGraphGetIn（ネットワークの形を変化させて、小さいネットワークにする）
+KnowledgeGraphListening（小さいネットワークで聞く準備）
+KnowledgeGraphSearchingGetIn（ネットワークの形を小さいのから大きいのに変化させる）
+KnowledgeGraphSearching（ネットワークが出てくるやつ）
+KnowledgeGraphSearchingGetOutSuccess（ネットワークに答えが見つかった）
+KnowledgeGraphSearchingFail（答えが見つからなかった）
+KnowledgeGraphSearchingFailGetOut（渋そうな顔をする）
+KnowledgeGraphAnswer（一瞬だけネットワークが見える）
+KnowledgeGraphGetOut（一瞬だけネットワークが見える、上より長い
+
+聞く listen
+anim_meetvictor_sayname02_02（うんうんとうなずいている）
+anim_onboarding_wakeword_getin_01(へいベクターと言ったときの顔とアームの動き）
+anim_onboarding_wakeword_loop_01（首をかしげて聞いている様子）
+
+驚く surprise
+anim_reacttocliff_pickup_02（びっくりした音を出したあと、怪訝な顔をする）
+
+混ぜる mix
+anim_reacttocliff_wheely_01（回りながら喜んだあと、びっくりする、１回転）
